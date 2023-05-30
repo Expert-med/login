@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106123708646",
+    "firebase_url": "https://teste-leo-calculadora-default-rtdb.firebaseio.com",
+    "project_id": "teste-leo-calculadora",
+    "storage_bucket": "teste-leo-calculadora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106123708646:android:0884f73781ff43006e1327",
+        "android_client_info": {
+          "package_name": "com.example.teste_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106123708646-5d1lbfsan6dkbp7asg9oqdo24auibo4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHf05tUJCizkfL3iQMaFDtXA8JXvQT0L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106123708646-5d1lbfsan6dkbp7asg9oqdo24auibo4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

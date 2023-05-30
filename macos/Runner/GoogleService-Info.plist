@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>106123708646-dncn5eq18up4uat96e7n5ggg0hdrns7g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.106123708646-dncn5eq18up4uat96e7n5ggg0hdrns7g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2Tob2u-syPZanuZPRAiiIh-10LA1M3zA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106123708646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testeLogin</string>
+	<key>PROJECT_ID</key>
+	<string>teste-leo-calculadora</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teste-leo-calculadora.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106123708646:ios:992a71717b94f0516e1327</string>
+	<key>DATABASE_URL</key>
+	<string>https://teste-leo-calculadora-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
